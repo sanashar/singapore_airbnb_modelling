@@ -1,4 +1,4 @@
-# singapore_airbnb_modelling
+# Singapore Airbnb Dataset Modelling
 ![Singapore](https://github.com/sanashar/singapore_airbnb_modelling/blob/main/heat_map.png)
 
 # Overview 

@@ -6,11 +6,11 @@ Airbnb provides a platform for hosts to accommodate guests with short-term lodgi
 # Project Goal
 Hypothesis – I think that the price rage of the Airbnb’s would be somewhere between 50 to 250 and would be using regression analysis to prove my hypothesis. Through exploratory data analysis, the goal is to use the dataset to analyze and answer some questions like - Regional analysis, Price Analysis, Occupancy Analysis etc. and also prove my hypothesis.
 # Repository Navigation
-Code               : [Notebooks](https://github.com/sanashar/Liquor_License_OH63534/tree/master/notebook)
+Code               : [Notebooks](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Notebooks)
 
-Report       : [Summary Report](https://github.com/sanashar/Liquor_License_OH63534/blob/master/Data602_Assignment1_SummaryReport.pdf)
+Report       : [Summary Report](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Summary%20Report)
 
-Data Files       : [Data](http://github.com/sanashar/Liquor_License_OH63534/tree/master/data)
+Data Files       : [Data](https://github.com/sanashar/singapore_airbnb_modelling/tree/main/Data)
 
 
 # Data Summary

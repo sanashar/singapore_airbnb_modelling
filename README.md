@@ -1,4 +1,6 @@
 # singapore_airbnb_modelling
+![Singapore](https://github.com/sanashar/singapore_airbnb_modelling/blob/main/heat_map.png)
+
 # Overview 
 Airbnb provides a platform for hosts to accommodate guests with short-term lodging and tourism-related activities. Guests can search for specific types of homes, such as bed and breakfasts, unique homes, and vacation homes etc. This dataset allows us to explore how Airbnb’s are being used in the different regions of Singapore in 2019. 
 # Project Goal
@@ -14,8 +16,6 @@ Data Files       : [Data](http://github.com/sanashar/Liquor_License_OH63534/tree
 # Data Summary
 This is an Airbnb Singapore dataset, that was collected on 28 August 2019, according to the website [Insiderairbnb](http://insideairbnb.com/get-the-data.html) and is also available on [Kaggle](https://www.kaggle.com/jojoker/singapore-airbnb). It has 7907 rows & 16 columns, and some missing data on some feature/variable. The data is sourced from publicly available information from the Airbnb site. The features include listing name, host id, location information, location coordinate, room type, the price per night, and so on.
 
-
-![Year](https://github.com/sanashar/Liquor_License_OH63534/blob/master/images/License_per_Year.png)
 
 # Project Info
 DATA 602 Assignment 1 - Sana Sharma
